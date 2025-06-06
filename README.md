@@ -39,6 +39,8 @@ Foram utilizados dados reais de queimadas e condições climáticas, incluindo:
 
 O trabalho foi desenvolvido como parte da Sprint 3 do Global Solution da FIAP, no 2º semestre do curso de Inteligência Artificial.
 
+## Vídeo do projeto: https://youtu.be/1eod4Nov5Qw?si=kaPm7qhIe6l7av9Q
+
 ## 📁 Estrutura de pastas
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
@@ -53,7 +55,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 ## 🔧 Como executar o código
 ### 🐍 Código Python:
    - Executar por meio do link do notebook: https://colab.research.google.com/drive/14JELSbnw3pgI9nuGfmAQC3WwrsS6O9gp#scrollTo=yWdZ5EXGGmH-
-   - Faça upload do arquivo de dados por meio do drive: link.
+   - Faça upload do arquivo de dados por meio do drive: https://drive.google.com/drive/folders/1U3UMJlKK2v1G1XDlU4ig976l7u57G6hZ?usp=drive_link
    - Execute as células do notebook em sequência.
 
 ## ⚙️ Etapas Realizadas
